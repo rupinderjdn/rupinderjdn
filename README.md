@@ -33,8 +33,8 @@ Welcome to my GitHub profile! I'm a passionate developer always excited to learn
 
 ## ⚡ Fun Facts
 
-- I love [Your Hobbies or Interests]
-- I'm always on the lookout for [Something Interesting You're Looking For]
+- I love playing latest single player games
+- I'm always on the lookout for a good horror watch
 
 Feel free to check out my repositories and don't hesitate to reach out if you want to collaborate on a project or just chat about tech!
 

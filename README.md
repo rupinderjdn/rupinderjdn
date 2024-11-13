@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a passionate developer always excited to learn
 ## 📫 How to Reach Me
 
 - [LinkedIn](https://www.linkedin.com/in/rupinder-s-341233193/)
-- [Twitter](https://x.com/rrupinderr)
+- [Twitter](https://x.com/anxietalDev)
 - [Email](mailto:rss264264@gmail.com)
 
 ## ⚡ Fun Facts

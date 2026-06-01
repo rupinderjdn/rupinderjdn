@@ -4,7 +4,7 @@
 
 ### Software Engineer | Frontend Expert | AI Enthusiast
 
-<img id="experience-badge" src="https://img.shields.io/badge/Experience-3.8%2B%20Years-blue?style=for-the-badge&logo=clockify&logoColor=white&labelColor=1e40af" alt="Experience" width="auto" height="45" style="height: 45px;" />
+<img id="experience-badge" src="https://img.shields.io/badge/Experience-3.9%2B%20Years-blue?style=for-the-badge&logo=clockify&logoColor=white&labelColor=1e40af" alt="Experience" width="auto" height="45" style="height: 45px;" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF006E&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications;Learning+System-design+and+RAG;Passionate+about+AI+and+RAG)](https://git.io/typing-svg)
 

@@ -4,7 +4,7 @@
 
 ### Software Engineer | End-to-End Delivery | Finance Tech & AI
 
-<img id="experience-badge" src="https://img.shields.io/badge/Experience-3.4%2B%20Years-blue?style=for-the-badge&logo=clockify&logoColor=white&labelColor=1e40af" alt="Experience" width="auto" height="45" style="height: 45px;" />
+<img id="experience-badge" src="https://img.shields.io/badge/Experience-3.9%2B%20Years-blue?style=for-the-badge&logo=clockify&logoColor=white&labelColor=1e40af" alt="Experience" width="auto" height="45" style="height: 45px;" />
 &nbsp;
 <img src="https://img.shields.io/badge/Finance%20Tech-1e40af?style=for-the-badge&logo=chartdotjs&logoColor=white&labelColor=1e3a8a" alt="Finance Tech" height="45" style="height: 45px;" />
 &nbsp;
@@ -149,6 +149,9 @@ Delivered production systems for India's largest retail bank—<span style="colo
 <div style="background-color: #0D1117; padding: 15px; border-radius: 10px; border-left: 4px solid #1e40af;">
 
 <!--START_SECTION:activity-->
+1. ❗ Opened issue [#978](https://github.com/Stremio/stremio-core/issues/978) in [Stremio/stremio-core](https://github.com/Stremio/stremio-core)
+2. 🗣 Commented on [#977](https://github.com/Stremio/stremio-core/issues/977#issuecomment-4322679255) in [Stremio/stremio-core](https://github.com/Stremio/stremio-core)
+3. ❗ Opened issue [#977](https://github.com/Stremio/stremio-core/issues/977) in [Stremio/stremio-core](https://github.com/Stremio/stremio-core)
 <!--END_SECTION:activity-->
 
 </div>

@@ -14,25 +14,25 @@
   <rect x="70" y="70" width="260" height="120" rx="3" fill="#0f172a"/>
   
   <!-- Code lines -->
-  <text x="80" y="95" font-family="monospace" font-size="12" fill="#10b981">
-    <tspan>&lt;div&gt;</tspan>
+  <text x="80" y="95" font-family="monospace" font-size="11" fill="#00ADD8">
+    <tspan>func HandleResearch() {</tspan>
     <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/>
   </text>
-  <text x="90" y="115" font-family="monospace" font-size="12" fill="#3b82f6">
-    <tspan>  const code = "awesome";</tspan>
+  <text x="90" y="115" font-family="monospace" font-size="11" fill="#3b82f6">
+    <tspan>  return NextResponse.json()</tspan>
     <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" begin="0.5s" repeatCount="indefinite"/>
   </text>
-  <text x="90" y="135" font-family="monospace" font-size="12" fill="#f59e0b">
-    <tspan>  return &lt;Component /&gt;;</tspan>
+  <text x="90" y="135" font-family="monospace" font-size="11" fill="#f59e0b">
+    <tspan>}</tspan>
     <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" begin="1s" repeatCount="indefinite"/>
   </text>
-  <text x="80" y="155" font-family="monospace" font-size="12" fill="#10b981">
-    <tspan>&lt;/div&gt;</tspan>
+  <text x="80" y="155" font-family="monospace" font-size="11" fill="#10b981">
+    <tspan>$ deploy --prod</tspan>
     <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" begin="1.5s" repeatCount="indefinite"/>
   </text>
   
   <!-- Cursor blinking -->
-  <rect x="250" y="150" width="2" height="15" fill="#ffffff">
+  <rect x="175" y="148" width="2" height="12" fill="#ffffff">
     <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
   </rect>
   
@@ -48,4 +48,3 @@
     <animate attributeName="fill" values="#6b7280;#3b82f6;#6b7280" dur="3s" begin="0.6s" repeatCount="indefinite"/>
   </circle>
 </svg>
-

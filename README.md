@@ -2,15 +2,15 @@
   
 # 👋 Hi, I'm Rupinder!
 
-### Software Engineer | End-to-End Delivery | Finance Tech & AI
+### Software Engineer | AI Agent Delivery | Finance Tech
 
 <img id="experience-badge" src="https://img.shields.io/badge/Experience-3.9%2B%20Years-blue?style=for-the-badge&logo=clockify&logoColor=white&labelColor=1e40af" alt="Experience" width="auto" height="45" style="height: 45px;" />
 &nbsp;
 <img src="https://img.shields.io/badge/Finance%20Tech-1e40af?style=for-the-badge&logo=chartdotjs&logoColor=white&labelColor=1e3a8a" alt="Finance Tech" height="45" style="height: 45px;" />
 &nbsp;
-<img src="https://img.shields.io/badge/2%20Production%20Apps-1e40af?style=for-the-badge&logo=rocket&logoColor=white&labelColor=1e3a8a" alt="2 Production Apps" height="45" style="height: 45px;" />
+<img src="https://img.shields.io/badge/LLM%20Evaluation-1e40af?style=for-the-badge&logo=openai&logoColor=white&labelColor=1e3a8a" alt="LLM Evaluation" height="45" style="height: 45px;" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=1E40AF&center=true&vCenter=true&width=600&lines=Owning+features+from+requirements+to+production+deployment;Building+end-to-end+finance+platforms+in+production;Translating+domain+problems+into+shipped+software)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1E40AF&center=true&vCenter=true&width=900&lines=Shipping+end-to-end+AI+agents+to+production;LLM+evaluation+with+RAGAS+and+LLM-as-judge;Golden+dataset+regression+for+agent+quality)](https://git.io/typing-svg)
 
 <img src="https://raw.githubusercontent.com/rrupinderr/rrupinderr/main/assets/wave.svg" width="100%" height="150" alt="Wave animation" />
 
@@ -22,16 +22,17 @@
   
 ### 🚀 Professional Experience
 
-Software engineer with end-to-end ownership across two production <span style="color: #1e40af; font-weight: bold;">Finance Tech</span> applications—from stakeholder alignment and system design through build, deployment, and iteration.
+Software engineer with end-to-end ownership across production <span style="color: #1e40af; font-weight: bold;">Finance Tech</span> systems—from stakeholder alignment and system design through build, deployment, and iteration.
 
 <div style="background-color: #0D1117; padding: 15px; border-radius: 10px; border-left: 4px solid #1e40af; margin-bottom: 12px;">
 
 #### <span style="color: #1e40af; font-weight: bold;">Software Engineer</span> at <span style="color: #1e40af; font-weight: bold;">Pascal AI</span> | _January 2025 - Present_
 
-Own engineering execution for an <span style="color: #1e40af; font-weight: bold;">AI Financial Analyst</span> platform automating equity research—partnering with product and domain stakeholders to ship production-ready capabilities.
+Own end-to-end delivery of an <span style="color: #1e40af; font-weight: bold;">AI Financial Analyst</span> agent for equity research—from prompt/tool design and RAG pipelines through production deployment and continuous <span style="color: #1e40af; font-weight: bold;">LLM evaluation</span>.
 
-• **End-to-end execution:** schema design → Golang APIs → Next.js/TypeScript frontend → production deployment  
-• **Ownership:** drive features from requirements through release, including performance and reliability  
+• **Agent deployment:** design → build → deploy AI agents with RAG, tool use, and production observability  
+• **LLM evaluation:** RAGAS metrics (faithfulness, answer relevance, context precision/recall) plus <span style="color: #1e40af; font-weight: bold;">LLM-as-judge</span> scoring for automated quality gates  
+• **Regression evals:** golden dataset benchmarks to catch quality drift before release  
 • **Impact:** <span style="color: #1e40af; font-weight: bold;">40% improvement</span> in page load and render time
 
 </div>
@@ -93,6 +94,7 @@ Delivered production systems for India's largest retail bank—<span style="colo
 
 ![System Design](https://img.shields.io/badge/System_Design-FF6B6B?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-9B59B6?style=for-the-badge&logo=openai&logoColor=white)
+![LLM Eval](https://img.shields.io/badge/LLM_Eval-1e40af?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 </td>
 <td width="40%" align="center">

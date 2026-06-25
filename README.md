@@ -2,15 +2,15 @@
   
 # 👋 Hi, I'm Rupinder!
 
-### Software Engineer | AI Agent Delivery | Finance Tech
+### Software Engineer | Building AI Agents | Finance Tech
 
 <img id="experience-badge" src="https://img.shields.io/badge/Experience-3.9%2B%20Years-blue?style=for-the-badge&logo=clockify&logoColor=white&labelColor=1e40af" alt="Experience" width="auto" height="45" style="height: 45px;" />
 &nbsp;
 <img src="https://img.shields.io/badge/Finance%20Tech-1e40af?style=for-the-badge&logo=chartdotjs&logoColor=white&labelColor=1e3a8a" alt="Finance Tech" height="45" style="height: 45px;" />
 &nbsp;
-<img src="https://img.shields.io/badge/LLM%20Evaluation-1e40af?style=for-the-badge&logo=openai&logoColor=white&labelColor=1e3a8a" alt="LLM Evaluation" height="45" style="height: 45px;" />
+<img src="https://img.shields.io/badge/AI%20Agents-1e40af?style=for-the-badge&logo=openai&logoColor=white&labelColor=1e3a8a" alt="AI Agents" height="45" style="height: 45px;" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1E40AF&center=true&vCenter=true&width=900&lines=Shipping+end-to-end+AI+agents+to+production;LLM+evaluation+with+RAGAS+and+LLM-as-judge;Golden+dataset+regression+for+agent+quality)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1E40AF&center=true&vCenter=true&width=900&lines=Passionate+about+shipping+AI+agents+to+production;RAG+pipelines,+tool+use,+and+LLM+evaluation+at+scale;Backend+systems+that+power+intelligent+finance+products)](https://git.io/typing-svg)
 
 <img src="https://raw.githubusercontent.com/rrupinderr/rrupinderr/main/assets/wave.svg" width="100%" height="150" alt="Wave animation" />
 
@@ -18,34 +18,58 @@
 
 ---
 
-<div align="left">
-  
+<div align="center">
+
 ### 🚀 Professional Experience
 
-Software engineer with end-to-end ownership across production <span style="color: #1e40af; font-weight: bold;">Finance Tech</span> systems—from stakeholder alignment and system design through build, deployment, and iteration.
-
-<div style="background-color: #0D1117; padding: 15px; border-radius: 10px; border-left: 4px solid #1e40af; margin-bottom: 12px;">
-
-#### <span style="color: #1e40af; font-weight: bold;">Software Engineer</span> at <span style="color: #1e40af; font-weight: bold;">Pascal AI</span> | _January 2025 - Present_
-
-Own end-to-end delivery of an <span style="color: #1e40af; font-weight: bold;">AI Financial Analyst</span> agent for equity research—from prompt/tool design and RAG pipelines through production deployment and continuous <span style="color: #1e40af; font-weight: bold;">LLM evaluation</span>.
-
-• **Agent deployment:** design → build → deploy AI agents with RAG, tool use, and production observability  
-• **LLM evaluation:** RAGAS metrics (faithfulness, answer relevance, context precision/recall) plus <span style="color: #1e40af; font-weight: bold;">LLM-as-judge</span> scoring for automated quality gates  
-• **Regression evals:** golden dataset benchmarks to catch quality drift before release  
-• **Impact:** <span style="color: #1e40af; font-weight: bold;">40% improvement</span> in page load and render time
+_Building production systems — from AI agents to mission-critical finance platforms_
 
 </div>
 
-<div style="background-color: #0D1117; padding: 15px; border-radius: 10px; border-left: 4px solid #1e40af; margin-bottom: 12px;">
+<div align="left">
+
+<div style="background: linear-gradient(180deg, #0f172a 0%, #0D1117 100%); padding: 20px; border-radius: 12px; border: 1px solid #1e3a8a; border-top: 3px solid #3b82f6; margin-bottom: 16px;">
+
+#### <span style="color: #1e40af; font-weight: bold;">Software Engineer</span> at <span style="color: #1e40af; font-weight: bold;">Pascal AI</span> | _January 2025 - Present_
+
+Passionate about building autonomous <span style="color: #1e40af; font-weight: bold;">AI agents</span> that transform equity research. I own the full lifecycle—from RAG architecture and tool orchestration to production deployment and rigorous <span style="color: #1e40af; font-weight: bold;">LLM evaluation</span>.
+
+• **AI agent systems:** RAG pipelines, tool use, and agent orchestration in production  
+• **LLM evaluation:** RAGAS scoring (faithfulness, relevance, context precision/recall) + <span style="color: #1e40af; font-weight: bold;">LLM-as-judge</span> quality gates  
+• **Ship with confidence:** golden dataset regression to catch drift before every release  
+• **Performance:** <span style="color: #1e40af; font-weight: bold;">40% faster</span> page load and render time
+
+<br/>
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-9B59B6?style=flat-square&logo=openai&logoColor=white)
+![LLM Eval](https://img.shields.io/badge/LLM_Eval-1e40af?style=flat-square&logo=googlecloud&logoColor=white)
+
+</div>
+
+<div style="background: linear-gradient(180deg, #0f172a 0%, #0D1117 100%); padding: 20px; border-radius: 12px; border: 1px solid #1e3a8a; border-top: 3px solid #3b82f6; margin-bottom: 16px;">
 
 #### <span style="color: #1e40af; font-weight: bold;">Software Engineer</span> at <span style="color: #1e40af; font-weight: bold;">Finmechanics</span> | _July 2022 - December 2024_
 
-Delivered production systems for India's largest retail bank—<span style="color: #1e40af; font-weight: bold;">FxOptions trading platform</span> and <span style="color: #1e40af; font-weight: bold;">treasury management</span>—with direct ownership from requirements gathering through go-live.
+Built mission-critical <span style="color: #1e40af; font-weight: bold;">backend systems</span> for India's largest retail bank—high-throughput APIs, data pipelines, and trading infrastructure at scale.
 
-• **End-to-end delivery:** requirements → architecture → implementation → deployment for mission-critical trading workflows  
-• **Production ownership:** login 10 min → 30 s; trade latency 15 s → 1–3 s  
-• **Full-stack execution:** ReactJS, Spring Boot, PostgreSQL | Load balancing (Apache HTTP) | NFS
+• **Backend architecture:** Spring Boot services, PostgreSQL, and REST APIs for FxOptions and treasury workflows  
+• **Production at scale:** login 10 min → 30 s; trade latency 15 s → 1–3 s  
+• **Infrastructure:** Apache HTTP load balancing, NFS, and full deployment ownership
+
+<br/>
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Apache](https://img.shields.io/badge/Apache_HTTP-D22128?style=flat-square&logo=apache&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-1e40af?style=flat-square&logo=fastapi&logoColor=white)
 
 </div>
 
@@ -71,30 +95,30 @@ Delivered production systems for India's largest retail bank—<span style="colo
 <tr>
 <td width="60%">
 
-### Core Stack
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend & Tools
+### Backend & Infrastructure
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### Currently Learning
-
+![REST APIs](https://img.shields.io/badge/REST_APIs-1e40af?style=for-the-badge&logo=fastapi&logoColor=white)
 ![System Design](https://img.shields.io/badge/System_Design-FF6B6B?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+
+### AI Agents & LLM
+
 ![RAG](https://img.shields.io/badge/RAG-9B59B6?style=for-the-badge&logo=openai&logoColor=white)
 ![LLM Eval](https://img.shields.io/badge/LLM_Eval-1e40af?style=for-the-badge&logo=googlecloud&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-1e40af?style=for-the-badge&logo=openai&logoColor=white)
+
+### Frontend
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 </td>
 <td width="40%" align="center">

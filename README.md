@@ -4,7 +4,7 @@
 
 ### Software Engineer | Building AI Agents | Finance Tech
 
-<img id="experience-badge" src="https://img.shields.io/badge/Experience-4.0%2B%20Years-blue?style=for-the-badge&logo=clockify&logoColor=white&labelColor=1e40af" alt="Experience" width="auto" height="45" style="height: 45px;" />
+<img id="experience-badge" src="https://img.shields.io/badge/Experience-4.1%2B%20Years-blue?style=for-the-badge&logo=clockify&logoColor=white&labelColor=1e40af" alt="Experience" width="auto" height="45" style="height: 45px;" />
 &nbsp;
 <img src="https://img.shields.io/badge/Finance%20Tech-1e40af?style=for-the-badge&logo=chartdotjs&logoColor=white&labelColor=1e3a8a" alt="Finance Tech" height="45" style="height: 45px;" />
 &nbsp;
